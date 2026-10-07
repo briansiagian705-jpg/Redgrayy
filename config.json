@@ -1,6 +1,6 @@
 {
-  "baseUrl": "http://fayyel.szxennpterodactyl.my.id:2059",
-  "ratBaseUrl": "http://fayyel.szxennpterodactyl.my.id:2059",
-  "ratSocketUrl": "http://fayyel.szxennpterodactyl.my.id:2059",
-  "wsRawUrl": "ws://fayyel.szxennpterodactyl.my.id:2059/ws-raw"
+  "baseUrl": "http://redgray.duckdns.top:4821",
+  "ratBaseUrl": "http://redgray.duckdns.top:4821",
+  "ratSocketUrl": "http://redgray.duckdns.top:4821",
+  "wsRawUrl": "ws://redgray.duckdns.top:4821/ws-raw"
 }

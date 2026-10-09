@@ -1,6 +1,6 @@
 {
-  "baseUrl": "http://167.71.193.107:3001",
-  "ratBaseUrl": "http://167.71.193.107:3001",
-  "ratSocketUrl": "http://167.71.193.107:3001",
-  "wsRawUrl": "ws://167.71.193.107:3001/ws-raw"
+  "baseUrl": "http://redgray-naels.rzhosts.my.id:2001",
+  "ratBaseUrl": "http://redgray-naels.rzhosts.my.id:2001",
+  "ratSocketUrl": "http://redgray-naels.rzhosts.my.id:2001",
+  "wsRawUrl": "ws://redgray-naels.rzhosts.my.id:2001/ws-raw"
 }

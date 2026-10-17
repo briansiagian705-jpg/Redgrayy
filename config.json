@@ -1,6 +1,6 @@
 {
-  "baseUrl": "http://cloudfayyel.nubeszxenn.my.id:3184",
-  "ratBaseUrl": "http://cloudfayyel.nubeszxenn.my.id:3184",
-  "ratSocketUrl": "http://cloudfayyel.nubeszxenn.my.id:3184",
-  "wsRawUrl": "ws://cloudfayyel.nubeszxenn.my.id:3184/ws-raw"
+  "baseUrl": "http://redgray-build.rzhosts.my.id:3000",
+  "ratBaseUrl": "http://redgray-build.rzhosts.my.id:3000",
+  "ratSocketUrl": "http://redgray-build.rzhosts.my.id:3000",
+  "wsRawUrl": "ws://redgray-build.rzhosts.my.id:3000/ws-raw"
 }

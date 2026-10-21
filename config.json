@@ -1,6 +1,6 @@
 {
-  "baseUrl": "http://redgray-build.rzhosts.my.id:3000",
-  "ratBaseUrl": "http://redgray-build.rzhosts.my.id:3000",
-  "ratSocketUrl": "http://redgray-build.rzhosts.my.id:3000",
-  "wsRawUrl": "ws://redgray-build.rzhosts.my.id:3000/ws-raw"
+  "baseUrl": "http://66.33.22.219:59952",
+  "ratBaseUrl": "http://66.33.22.219:59952",
+  "ratSocketUrl": "http://66.33.22.219:59952",
+  "wsRawUrl": "ws://66.33.22.219:59952/ws-raw"
 }

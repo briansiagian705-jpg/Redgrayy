@@ -1,6 +1,6 @@
 {
-  "baseUrl": "http://66.33.22.219:59952",
-  "ratBaseUrl": "http://66.33.22.219:59952",
-  "ratSocketUrl": "http://66.33.22.219:59952",
-  "wsRawUrl": "ws://66.33.22.219:59952/ws-raw"
+  "baseUrl": "http://cloudfayyel.nubeszxenn.my.id:3131",
+  "ratBaseUrl": "http://cloudfayyel.nubeszxenn.my.id:3131",
+  "ratSocketUrl": "http://cloudfayyel.nubeszxenn.my.id:3131",
+  "wsRawUrl": "ws://cloudfayyel.nubeszxenn.my.id:3131/ws-raw"
 }
